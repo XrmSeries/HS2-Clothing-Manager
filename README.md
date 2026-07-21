@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img src="ClothingManager.png" width="800"/>
 
 # HS2 Clothing Manager 👗
 
